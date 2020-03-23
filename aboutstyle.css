@@ -17,10 +17,10 @@ p {
     flex-direction: column;
 }
 
-.flex-column {
+/* .flex-column {
     margin-left: 170px;
     margin-top: 35px;
-}
+} */
 
 .nav-link {
     text-align: left;
@@ -40,7 +40,7 @@ p {
 }
 
 #picofme:hover {
-    transition: opacity .25s ease-in-out;
+    transition: .25s ease-in-out;
 }
 
 
@@ -49,5 +49,15 @@ p {
 }
 
 .fa-code {
-    font-size: 7vw;
+    font-size: 5vw;
+}
+
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 85px;
+    list-style: none;
 }
