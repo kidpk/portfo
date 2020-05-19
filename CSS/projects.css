@@ -71,3 +71,18 @@ a.projects {
 .container {
     margin-bottom: 100px;
 }
+
+.skills {
+    font-size: 60px;
+    text-align: center;
+    background-image: url(../Assets/Cognizion-Hexagon-background.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    
+}
+
+#skill {
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}

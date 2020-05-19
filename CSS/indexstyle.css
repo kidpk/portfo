@@ -16,3 +16,7 @@ html {
     justify-content: space-between;
     padding: .1rem 1rem;
 }
+
+.text-light {
+    font-family: 'Spartan';
+}
